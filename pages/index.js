@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>GC Invitational</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="GC Invitational" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          May 19-22, 2022 &mdash; Scottsdale, AZ
         </p>
       </main>
 
